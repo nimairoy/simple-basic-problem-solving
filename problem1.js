@@ -6,6 +6,7 @@ var fruits = ['Apple', 'Banana', 'Orange'];
 // b) Remove ‘Orange’ and add ‘Watermelon’.
 
 // a) output 
+console.log(indexOf(fruits))
 
 fruits[1] = "Mango"; // a) finded the index of 'Banana' and replaced it with 'Mango'
 console.log(fruits[1]) // a)  output Mango
