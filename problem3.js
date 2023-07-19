@@ -17,3 +17,5 @@ const largestNumber = (x, y, z) => {
 }
 
 largestNumber(13, 79, 45);
+
+// output The Largest Number is 79
